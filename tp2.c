@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+#include <stdlib.h>
 #include <time.h>
 
   typedef struct {
@@ -11,12 +12,10 @@
   int Genero_Interes;
 }Persona;
 
-void obtencion_de_personas (int cantdidatos){
+void obtencion_de_personas (int cantdidatos, FILE* Entrada){
 int lineas = 0;
 Persona candidatos[30];
 char linea[1024];
-FILE *Entrada;
-Entrada = fopen("personas.txt","r");
 while(fgets(linea, 1024, (FILE*) Entrada)) {
     lineas++;
 }
@@ -24,7 +23,7 @@ printf("%d",lineas);
 rewind(Entrada);
 int Randoms[cantdidatos], i ;
 for( i = 0;i<cantdidatos;i++){
-  Randoms[i] = srand (time(NULL)) % (lineas+1);
+  
 
 }
 //  return candidatos;
@@ -32,8 +31,11 @@ for( i = 0;i<cantdidatos;i++){
 
 int main(){
   int cantdidatos;
-
+  FILE *Entrada;
+  Entrada = fopen("personas.txt","r");
+  srand (time(NULL));
   scanf("%d",&cantdidatos);
-  obtencion_de_personas(cantdidato);
+  obtencion_de_personas(cantdidatos, Entrada);
 
 }
+
