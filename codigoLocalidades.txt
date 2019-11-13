@@ -1,0 +1,2133 @@
+1,HOSPITAL                                                
+2,ZAPOTE                                                  
+3,SAN FRANCISCO DE DOS RIOS                               
+4,URUCA                                                   
+5,MATA REDONDA                                            
+6,PAVAS                                                   
+7,HATILLO                                                 
+8,SAN SEBASTIAN                                           
+9,LA CAJA                                                 
+10,PASO ANCHO SUR                                          
+11,CARMEN                                                  
+12,BARRIO MEXICO                                           
+13,CATEDRAL                                                
+14,CORAZON DE JESUS                                        
+15,ARANJUEZ                                                
+16,PITAHAYA                                                
+17,CRISTO REY                                              
+18,OMAR DENGO                                              
+19,SAN BOSCO                                               
+20,GONZALEZ VIQUEZ                                         
+21,NACIONES UNIDAS                                         
+22,BARRIO LUJAN                                            
+23,PASO ANCHO NORTE                                        
+24,SAGRADA FAMILIA                                         
+25,RINCON GRANDE                                           
+26,MARIA REINA                                             
+27,VILLA ESPERANZA                                         
+28,ROSITER CARBALLO                           
+29,C.P. CRISTO REY                        
+30,LA CARPIO                                               
+31,CORDOBA                                                 
+32,SANTA MARTA                                             
+33,PEREGRINA                                               
+34,PERPETUO SOCORRO                                        
+35,HATILLO 8                                               
+36,COLONIA 15 DE SETIEMBRE                                 
+37,COLONIA KENNEDY                                         
+38,C.S.M CAPEMCOL                                          
+39,ESCAZU                                                   
+40,SAN ANTONIO                                              
+41,SAN RAFAEL                                               
+42,BEBEDERO O SAN FRANCISCO                                 
+43,GUACHIPELIN                               
+44,CARMEN 
+45,BELO HORIZONTE NORTE                                     
+46,H.A. MAGDALA                                             
+47,DESAMPARADOS                                       
+48,SAN MIGUEL                                         
+49,JERICO                                             
+50,HIGUITO                                            
+51,SAN JUAN DE DIOS                                   
+52,SAN RAFAEL ARRIBA                                  
+53,SAN RAFAEL ABAJO                                   
+54,SAN ANTONIO                                        
+55,FRAILES                                            
+56,BUSTAMANTE O ALCIRA                                
+57,PATARRA                                            
+58,SAN CRISTOBAL SUR                                  
+59,SAN CRISTOBAL NORTE                                
+60,ROSARIO                                            
+61,GUADARRAMA                                         
+62,LA JOYA                                            
+63,FATIMA DE DAMAS                                    
+64,CALLE FALLAS                                       
+65,GRAVILIAS                                          
+66,PACAYA                                             
+67,EL LLANO                                           
+68,MANZANO                             
+69,GUATUSO                                            
+70,TRINIDAD 
+71,CRISTO REY                                         
+72,LOS GUIDO                                          
+73,LAS LOMAS                                          
+74,SAN JERONIMO                                       
+75,VIOLETA                
+76,SAN LORENZO                                        
+77,VALENCIA                                           
+78,EL PORVENIR                                        
+79,LA CAPRI                                           
+80,C.P. VILMA CURLING RIVERA                          
+81,EMPALME ARRIBA GUARIA              
+82,H.A. OFELIA CARVAJAL DE NARANJO                    
+83,H.A. SAN CAYETANO                                  
+84,LLANO BONITO                                       
+85,CHIROGRES                                          
+86,H.A.C.G. MANANTIAL DE VIDA SAN RAF                 
+87,SANTIAGO                                               
+88,POZOS                                                  
+89,MERCEDES SUR                                           
+90,MERCEDES NORTE                                         
+91,BOCANA                                                 
+92,JILGUERAL                                              
+93,TUFARES                                                
+94,SALITRALES                                             
+95,ALTO LA PALMA                                          
+96,BARBACOAS                                
+97,PIEDADES                                               
+98,SAN JUAN                                               
+99,GRIFO ALTO                                             
+100,LLANO GRANDE                                           
+101,GRIFO BAJO                                             
+102,SAN RAFAEL ARRIBA                                      
+103,FLORALIA                                               
+104,CANDELARITA                                            
+105,DESAMPARADITOS                                         
+106,SAN ANTONIO                                            
+107,GUARUMAL                                               
+108,ZAPATON                                    
+109,PEDERNAL O SAN PEDRO                                   
+110,GAMALOTILLO                                            
+111,LOS ANGELES                                            
+112,LA GLORIA                                              
+113,MASTATAL                                               
+114,SANTA MARTA                                            
+115,CARIT                                                  
+116,CORTEZAL                                               
+117,CERBATANA                                              
+118,SAN MARTIN                                             
+119,CHARCON                                  
+120,SAN MIGUEL                                             
+121,BAJO BADILLA                                           
+122,VISTA DE MAR NORTE                                     
+123,BAJO REY                                               
+124,H.A. CORAZON DE JESUS                                  
+125,SANTA CECILIA                                          
+126,SAN MARCOS                                              
+127,SAN PEDRO                                               
+128,SAN MARTIN                                              
+129,SAN LORENZO                                             
+130,GUADALUPE                                               
+131,RODEO NORTE                                             
+132,SAN CARLOS                                              
+133,ESQUIPULAS                                              
+134,SAN JERONIMO                                            
+135,SAN MIGUEL O SALADO                                     
+136,ZAPOTAL                                                 
+137,NAPOLES                                                 
+138,QUEBRADA ARROYO                                         
+139,H.A. LOS SANTOS                                         
+140,ASERRI                                                   
+141,POAS                                                     
+142,SALITRILLOS                                              
+143,JOCOTAL ABAJO                                            
+144,TARBACA O PRAGA                                          
+145,VUELTA DE JORCO                                          
+146,MONTE REDONDO                                            
+147,SAN GABRIEL                                              
+148,LIMONAL                                                  
+149,LEGUA                                                    
+150,BAJO DE PARRITA                                          
+151,MONTERREY                                                
+152,LEGUA DE LOS NARANJOS                                    
+153,URUCA                                                    
+154,EL TIGRE                                                 
+155,CEDRAL                                                   
+156,TRANQUERILLAS                                            
+157,ALTO AGUACATE                                            
+158,LAGUNA                                 
+159,OJO DE AGUA
+160,SANTA TERESITA                                           
+161,H.A. SAN FRANCISCO DE ASIS                               
+162,COLON                                                      
+163,JARIS                                                      
+164,GUAYABO                                                    
+165,TABARCIA                                                   
+166,PIEDRAS BLANCAS                                            
+167,MORADO                                                     
+168,PIEDRAS NEGRAS                                             
+169,PICAGRES                                                   
+170,LLANO GRANDE                                               
+171,CORRALAR                                                   
+172,QUITIRRISI                                                 
+173,BAJO DE LOAIZA                                
+174,RODEO                                                      
+175,BRASIL                                                     
+176,SAN BOSCO                                                  
+177,SAN RAFAEL                                    
+178,CORROGRES 
+179,BAJO DE BUSTAMANTE O ANGELES                               
+180,SAN ISIDRO DE CHUCAS 
+181,BAJO DE JORCO 
+182,GUADALUPE                                            
+183,H.A. CARLOS MARIA ULLOA                              
+184,SAN FRANCISCO                                        
+185,CALLE BLANCOS Y SAN GABRIEL                          
+186,MATA DE PLATANO O CARMEN                             
+187,IPIS ABAJO                                           
+188,PURRAL                                               
+189,RANCHO REDONDO                                       
+190,VISTA DE MAR                                         
+191,LOS ANGELES                                          
+192,FACIO Y LA MORA                                      
+193,CUADROS                                              
+194,H.A. CORTEZA AMARILLA-EMMANUEL                       
+195,SANTA ANA                                             
+196,SALITRAL                                              
+197,POZOS                                                 
+198,MATINILLA                                             
+199,RIO ORO                                               
+200,PIEDADES                                              
+201,BRASIL                                                
+202,LA MINA                                               
+203,SAN RAFAEL                                            
+204,HONDURAS                                              
+205,LAGOS DE LINDORA                                      
+206,ALAJUELITA                                           
+207,SAN JOSECITO                                         
+208,SAN ANTONIO O EL LLANO                               
+209,CONCEPCION ABAJO                                     
+210,SAN FELIPE                                           
+211,LAMPARAS O CORAZON DE JESUS                          
+212,AURORA                                               
+213,CONCEPCION ARRIBA                                    
+214,TEJARCILLOS                      
+215,SAN ISIDRO                                  
+216,SAN RAFAEL                                  
+217,SAN PEDRO                                   
+218,JESUS O DULCE NOMBRE                        
+219,SAN ANTONIO                                 
+220,LAS NUBES                                   
+221,CASCAJAL                                    
+222,CORAZON DE JESUS                            
+223,SAN IGNACIO                                              
+224,TABLAZO                                                  
+225,CHIRRACA                                   
+226,AGUA BLANCA
+227,GUAITIL                                                  
+228,TOLEDO                                                   
+229,PALMICHAL                                                
+230,CANGREJAL                                                
+231,CEIBA ESTE                                               
+232,COYOLAR                                                  
+233,SABANILLAS                                               
+234,TERUEL                                                   
+235,BIJAGUAL                                                 
+236,LA CRUZ                                                  
+237,OCOCA                                                    
+238,SEVILLA 
+239,BAJO DE JORCO
+240,LLANO DE LA MESA                                         
+241,ZONCUANO                                                 
+242,LAS LIMAS                                                
+243,CASPIROLA                                                
+244,SAN LUIS                                                 
+245,ESCUADRA                                                 
+246,BAJO CACAO O CERDAS                                      
+247,URUCA                                                    
+248,VEGAS DEL PARRITA                                        
+249,LINDA VISTA                                              
+250,H.A. ACOSTA                                              
+251,SAN JUAN                                                  
+252,ANSELMO LLORENTE                                          
+253,COLIMA                                                    
+254,CINCO ESQUINAS                                            
+255,LEON XIII                                                 
+256,CUATRO REINAS                                             
+257,FLORIDA                                          
+258,SAN VICENTE                                             
+259,SAN JERONIMO                                            
+260,LA TRINIDAD
+261,PLATANARES                                              
+262,LOS SITIOS                                              
+263,H.A. CASA NAZARETH                                      
+264,LA ISLA                                                 
+265,SAN PEDRO                                         
+266,LOURDES                                           
+267,SABANILLA                                         
+268,BETANIA                                           
+269,SAN RAFAEL                                        
+270,CEDROS                                            
+271,H.A. MONTES DE OCA                                
+272,SAN PABLO                                            
+273,SAN PEDRO                                            
+274,SAN JUAN DE MATA                                     
+275,MONTELIMAR                            
+276,LAS DELICIAS                                         
+277,SAN GABRIEL                                          
+278,SAN LUIS                                             
+279,BIJAGUAL                                             
+280,SAN RAFAEL                                           
+281,SAN ANTONIO DE TULIN                                 
+282,SAN FRANCISCO                                        
+283,EL SUR                                               
+284,POTENCIANA ARRIBA                                    
+285,EL BARRO                                             
+286,SANTA MARIA                                                
+287,JARDIN                                                     
+288,COPEY                                                      
+289,PROVIDENCIA                                                
+290,LA CIMA                                                    
+291,TRINIDAD                                                   
+292,SUKIA O EL BRUJO                                           
+293,SAN GERARDO                                                
+294,CURRIDABAT                                           
+295,SANCHEZ                                              
+296,TIRRASES                                             
+297,LA LIA O INMACULADA                                  
+298,CIPRESES                                             
+299,GRANADILLA                                           
+300,JOSE MARIA ZELEDON                                   
+301,CIUDADELA QUINCE DE AGOSTO                           
+302,H.A. CURRIDABAT                                      
+303,SAN ISIDRO DE EL GENERAL                          
+304,LA PALMA                                          
+305,SANTA ROSA                                        
+306,LA ESPERANZA                                      
+307,GENERAL VIEJO                                     
+308,PALMARES                                          
+309,RIVAS                                             
+310,SAN PEDRO                                         
+311,CANDELARIA O ANGOSTURA                            
+312,PEDREGOSO                                         
+313,SAN RAMON SUR                                     
+314,PACUARITO                                         
+315,QUEBRADAS                                         
+316,SAN CRISTOBAL O TINAMASTE                         
+317,SAN JUAN DE DIOS O GUABO                          
+318,LA HERMOSA                                        
+319,BOLIVIA                                           
+320,SAN JUAN BOSCO                  
+321,LA REPUNTA                                        
+322,BUENA VISTA                                       
+323,PUEBLO NUEVO                                      
+324,CANAAN                                            
+325,SAN RAFAEL NORTE DE SAN ISIDRO                    
+326,LOS REYES                                         
+327,SAN RAFAEL DE PLATANARES                          
+328,CARMEN O CAJON                                    
+329,PLATANILLO                                        
+330,QUIZARRA                            
+331,SAN GABRIEL                                       
+332,SANTA TERESA                                      
+333,PEJIBAYE                                          
+334,SANTO TOMAS                                       
+335,PEÑAS BLANCAS                                     
+336,AGUILA ABAJO                                      
+337,SAN PABLO                                         
+338,ZAPOTE                                            
+339,DIVISION                            
+340,DESAMPARADOS                                      
+341,SAN MIGUEL                                        
+342,MESAS                                             
+343,SAVEGRE ABAJO                                     
+344,SANTA ELENA                                       
+345,SAN RAFAEL DE SAN PEDRO                           
+346,BRUJO                                             
+347,EL LLANO                                          
+348,VILLA BONITA                                      
+349,SANTA LUCIA                         
+350,SAN SALVADOR                                      
+351,SAN BLAS                          
+352,AGUAS BUENAS                                      
+353,SAN AGUSTIN                                       
+354,HERRADURA                                         
+355,TAMBOR                                            
+356,SAN JERONIMO                                      
+357,FATIMA                                            
+358,CONCEPCION                         
+359,SIERRA                                            
+360,SAN CARLOS                                        
+361,MERCEDES                                          
+362,SAN FRANCISCO                                     
+363,LA LINDA                                          
+364,LA UNION DE SAN PEDRO                             
+365,VISTA DE MAR NORTE                                
+366,CALLE MORAS                                       
+367,LOS ANGELES DE PARAMO                             
+368,SAN CAYETANO                           
+369,SAN JUAN DE MIRAMAR              
+370,CEIBO ARRIBA                                      
+371,CHINA KICHA                                       
+372,SAN ANTONIO                                       
+373,SIBERIA                             
+374,LA ESE                                            
+375,LAS JUNTAS DE PACUAR                              
+376,VILLA LIGIA                                       
+377,LOS CHILES                                        
+378,CHIMIROL                                          
+379,SAN MARTIN                            
+380,GUADALUPE                                         
+381,RIO GRANDE                                        
+382,LA PIEDRA DE RIVAS                                
+383,PAVONES                                           
+384,EL HOYON                                          
+385,SINAI                                             
+386,VALENCIA                                          
+387,MIRAVALLES                                        
+388,TRINIDAD                                          
+389,VERACRUZ                                          
+390,MOLLEJONES                                        
+391,SOCORRO                                           
+392,LOS ANGELES DE LIGIA                              
+393,VILLANUEVA DE PEDREGOSO                           
+394,SANTA EDUVIGIS                                    
+395,SAGRADA FAMILIA                                   
+396,ROSARIO O ARRONIS                                 
+397,MIRAFLORES                                        
+398,PALMITAL                                          
+399,SANTIAGO                                          
+400,ESPERANZA DE SAN PEDRO                            
+401,VILLA ARGENTINA                                   
+402,SAN RAMON NORTE                                   
+403,JARDIN                              
+404,BERLIN                                            
+405,BAJO ESPERANZA                                    
+406,PILAR                                             
+407,C.P. ANTONIO BASTIDA DE PAZ                       
+408,CRISTO REY                                        
+409,CALIFORNIA DE RIO NUEVO                           
+410,H.A. MONS.DELFIN QUESADA CASTRO                   
+411,PIEDRA ALTA                                       
+412,BONITA                                            
+413,CENIZA                                            
+414,COCORI                                            
+415,COOPERATIVA                                       
+416,INVU PEDRO PEREZ                                  
+417,MORAZAN                                           
+418,SAN ANDRES                                        
+419,TIERRA PROMETIDA                                  
+420,BAIDAMBU                                          
+421,LA AURORA                                         
+422,TIRRA                                             
+423,RIO QUEBRADAS ARRIBA                              
+424,DANIEL FLORES                                     
+425,SAN GERARDO                                       
+426,C.P. PABRU PRESBERI                               
+427,SAN PABLO                                    
+428,SAN ANDRES                                   
+429,LLANO BONITO           
+430,SAN ISIDRO                                   
+431,SANTA CRUZ                                   
+432,ANGOSTURA ABAJO                              
+433,SAN RAFAEL ABAJO           
+434,SANTA ROSA ABAJO ESTE                        
+435,CEDRAL PARTE NORTE                           
+436,SAN FRANCISCO                                
+437,TRINIDAD                                     
+438,SAN MARTIN                                   
+439,LA LUCHA                      
+440,SAN ANTONIO                                  
+441,HIGUERON                                     
+442,LA CUESTA O BAJO DE TARRAZU                  
+443,CARRIZALES                                   
+444,SANTA JUANA                                  
+445,ALAJUELA                                                
+446,CONCEPCION O EL LLANO                                   
+447,CANOAS                                                  
+448,SAN JOSE                                                
+449,EL COYOL                                                
+450,TUETAL SUR                                              
+451,CARRIZAL                                                
+452,UJARRAS                                                 
+453,SAN ANTONIO DEL TEJAR                                   
+454,EL ROBLE                                                
+455,GUACIMA                              
+456,EL COCO                                                 
+457,LAS VUELTAS                                             
+458,SAN ISIDRO                                              
+459,ITIQUIS                                                 
+460,DULCE NOMBRE DE LAGUNA                                  
+461,SABANILLA                                               
+462,SAN LUIS                                                
+463,LOS ANGELES                                             
+464,FRAIJANES                                               
+465,SAN RAFAEL ESTE                                         
+466,SAN RAFAEL OESTE                                        
+467,RIO SEGUNDO                           
+468,DESAMPARADOS                                            
+469,TURRUCARES                                              
+470,CINCO ESQUINAS                                          
+471,CEBADILLA                                               
+472,SAN MIGUEL O CERRILLOS                                  
+473,TAMBOR                                      
+474,CACAO                                                   
+475,TUETAL NORTE                                  
+476, GARITA                                                 
+477,POASITO                                                 
+478,SAN MIGUEL DE SARAPIQUI                                 
+479,PAVAS                                      
+480,SAN MARTIN                                              
+481,SIQUIARES                                               
+482,CORAZON DE JESUS                                        
+483,EL CERRO                                                
+484,VILLA BONITA                               
+485,CIRUELAS                                                
+486,CACIQUE                                                 
+487,DULCE NOMBRE O LAS ANIMAS                               
+488,PUEBLO NUEVO                                            
+489,MONTECILLOS                              
+490,NUESTRO AMO                                             
+491,INVU LOS RODRIGUEZ                                      
+492,TACACORI                                                
+493,PACTO DEL JOCOTE                                        
+494,CERRILLAL                                               
+495,VILLA HELIA                             
+496,QUEBRADAS                                               
+497,ROSALES                                                 
+498,CALIFORNIA                                              
+499,LAS PILAS                                               
+500,C.P. REYNALDO VILLALOBOS Z.                             
+501,C.P. LUIS PAULINO MORA MORA                             
+502,C.P. AMBITOS A Y B                              
+503,C.P. AMBITO C                         
+504,C.P.  AMBITO D                       
+505,C.P. GERARDO RODRIGUEZ ECHEVERRIA                       
+506,C.P. ADULTO MAYOR                                       
+507,H.A. SANTIAGO CRESPO CALVO                              
+508,BARRIO CORAZON DE JESUS                                 
+509,EL ARROYO                                               
+510,EL CARMEN                                               
+511,RINCON CHIQUITO                                         
+512,C.P. ADULTO JOVEN                                       
+513,EL PARAISO                                              
+514,RINCON DE HERRERA                                       
+515,C.P. AMBITO E INDICIADOS PENSIONES                      
+516,C.P CENTRO NAC. DE ATENCION ESPEC.                      
+517,SAN RAMON                                             
+518,SANTIAGO                                              
+519,SAN JOSE                                 
+520,SAN JUAN                                              
+521,PIEDADES NORTE                                        
+522,LA PAZ                                                
+523,PIEDADES SUR                                          
+524,SALVADOR                                              
+525,SAN FRANCISCO                                         
+526,SAN MIGUEL                                            
+527,BUREAL                                                
+528,SAN RAFAEL                                            
+529,BERLIN                                                
+530,CALLE ZAMORA                                          
+531,LLANO DE BRENES                                       
+532,SAN ISIDRO                                            
+533,LOS ANGELES SUR                                       
+534,BAJO CORDOBA                                          
+535,SAN PEDRO                                             
+536,VOLIO                                                 
+537,ALTO VILLEGAS                                         
+538,CONCEPCION                                            
+539,SAN ANTONIO DE ZAPOTAL                                
+540,SAN ISIDRO DE PEÑAS BLANCAS                           
+541,CARRERA BUENA                                         
+542,BOLIVAR                                  
+543,LA ESPERANZA                                          
+544,CHACHAGUA                                             
+545,BAJO DE LOS RODRIGUEZ                                 
+546,COLONIA TRINIDAD                                      
+547,LOS CRIQUES                                           
+548,BAJO LA PAZ                                           
+549,GUARIA                                   
+550,SECTOR LOS ANGELES                                    
+551,CATARATA                                              
+552,VALLE AZUL                                            
+553,BAJO ZUÑIGA                                           
+554,SOCORRO                                               
+555,LA GUARIA                                             
+556,ANGOSTURA                                             
+557,EL CASTILLO                                           
+558,ZAPOTAL PARTE ESTE                                    
+559,H.A. SAN RAMON                                        
+560,CIUDADELA JARDINES                                    
+561,CALLE LEON                                            
+562,EMPALME                                               
+563,SAN MARTIN                                
+564,BARRIO BELEN                                          
+565,LA BALSA                                              
+566,GRECIA                                                   
+567,MESON O DULCE NOMBRE                                     
+568,SAN FRANCISCO                                            
+569,SAN JOSE Y SANTA GERTRUDIS NORTE                         
+570,SANTA GERTRUDIS SUR                                      
+571,SAN ROQUE                                                
+572,TACARES                                                  
+573,RINCON DE ARIAS                                          
+574,LA ARENA                                  
+575,CALLE RODRIGUEZ                                          
+576,CATALUÑA                                                 
+577,PUENTE DE PIEDRA                                         
+578,RINCON DE SALAS                                          
+579,LOS ANGELES DE BOLIVAR                                   
+580,SAN JUAN                                                 
+581,SAN LUIS                                                 
+582,SAN MIGUEL                                               
+583,LOS LOTES                                 
+584,BODEGAS                                                  
+585,ALTOS DE PERALTA                                         
+586,BARRIO LATINO                               
+587,CAJON                                 
+588,CARBONAL                                  
+589,CALLE SAN JOSE                                           
+590,SAN MIGUEL ARRIBA                                        
+591,CALLE ACHIOTE                                            
+592,SAN ISIDRO                                               
+593,CEDRO                                                    
+594,PORO                                                     
+595,LEON CORTES CASTRO                                       
+596,BAJO ROSALES                                             
+597,CAJON ARRIBA                                             
+598,H.A. JAFETH JIMENEZ MORALES                              
+599,LA ARGENTINA                                             
+600,SAN MATEO                                             
+601,HIGUITO                                               
+602,MADERAL                                               
+603,DULCE NOMBRE                                          
+604,DESMONTE                                              
+605,JESUS MARIA                                           
+606,LABRADOR                                              
+607,ESTANQUILLOS O SAN ANTONIO                    
+608,ATENAS                                                   
+609,LOS ANGELES                                              
+610,JESUS                                                    
+611,SABANA LARGA                                             
+612,ESCOBAL                                                  
+613,MERCEDES                                                 
+614,GUACIMO                                                  
+615,SAN ISIDRO                                               
+616,RINCON DE SAN ISIDRO                                     
+617,CONCEPCION                                               
+618,BALSA                                                    
+619,SAN JOSE SUR                                             
+620,SANTA EULALIA                                            
+621,MORAZAN                                                  
+622,H.A. HORTENSIA RODRIGUEZ S.DE B                          
+623,ESTANQUILLO                     
+624,NARANJO                                                 
+625,CANDELARIA                              
+626,SAN ANTONIO DE LA CUEVA                                 
+627,SAN JUAN                              
+628,SAN MIGUEL                                              
+629,PALMITOS                                                
+630,CONCEPCION ESTE                                         
+631,ROSARIO                                      
+632,SAN JOSE                               
+633,BARRANCA                                                
+634,SAN ANTONIO DE BARRANCA                                 
+635,CIRRI SUR                                               
+636,LLANO BONITO O CIRRI NORTE                              
+637,SAN ROQUE                                               
+638,CAÑUELA ARRIBA                                          
+639,SAN JERONIMO                                            
+640,LOS ROBLES                                              
+641,SAN FRANCISCO                            
+642,COMUN O SAN RAFAEL                                      
+643,LOURDES                                                 
+644,DULCE NOMBRE                                  
+645,H.A. JOSE DEL OLMO                                      
+646,SANTA MARGARITA                                         
+647,PALMARES                                               
+648,ZARAGOZA                                               
+649,RINCON DE ZARAGOZA                                     
+650,BUENOS AIRES                                           
+651,LA GRANJA                                              
+652,SANTIAGO                                               
+653,CANDELARIA                                             
+654,ESQUIPULAS                                             
+655,H.A. PALMARES                                          
+656,COCALECA                               
+657,CALLE VARGAS                                           
+658,SAN PEDRO                                                  
+659,SAN JUAN SUR                                               
+660,SAN RAFAEL                                                 
+661,CARRILLOS BAJO                                             
+662,SABANA REDONDA                                             
+663,SANTA ROSA                                                 
+664,CHILAMATE                                                  
+665,SAN JUAN NORTE                                             
+666,CARRILLOS ALTO                                             
+667,GUATUZA                                                    
+668,OROTINA                                                 
+669,EL MASTATE                                              
+670,HACIENDA VIEJA                                          
+671,COYOLAR                                                 
+672,CASCAJAL                                                
+673,NUEVA SANTA RITA                                        
+674,CUATRO ESQUINAS NORTE                                   
+675,LA CEIBA                                                
+676,SAN JERONIMO                                            
+677,PARCELAS TRINIDAD                             
+678,H.A. PRESBITERO JESUS MARIA VARGAS                      
+679,QUESADA                                              
+680,DULCE NOMBRE                                         
+681,SUCRE                                                
+682,FLORENCIA                                            
+683,QUEBRADA AZUL                                        
+684,MUELLE DE SAN CARLOS                                 
+685,SANTA CLARA                                          
+686,LA VEGA O CUATRO ESQUINAS                            
+687,BUENAVISTA                                           
+688,AGUAS ZARCAS                                         
+689,LOS CHILES                                           
+690,LA TIGRA                                             
+691,LA PALMERA                                           
+692,PITAL                                                
+693,LA UNION ESTE                                        
+694,VENECIA                                              
+695,SAN VICENTE                                          
+696,PORVENIR                                             
+697,BOCA DE ARENAL                                       
+698,LA FORTUNA                                           
+699,EL TANQUE                                            
+700,GUARIA DE FORTUNA                                    
+701,PLATANAR                                             
+702,SAN JUAN DE QUEBRADA DE PALO                         
+703,VERACRUZ                                             
+704,SANTO DOMINGO                                        
+705,SAN FRANCISCO O VACA BLANCA                          
+706,LOS LLANOS O ALTAMIRITA                              
+707,LA VIEJA                                             
+708,SAN RAFAEL DE PLATANAR                               
+709,SAN PEDRO Y TABLA GRANDE                             
+710,AGUA AZUL                                            
+711,LOS ANGELES                                          
+712,VENADO                                               
+713,JICARITO                                             
+714,BUENOS AIRES                                         
+715,MONTELIMAR                                           
+716,SAN JOSECITO DE CUTRIS                               
+717,SAN GERARDO DE POCOSOL                               
+718,SAN JOAQUIN                                          
+719,CORAZON DE JESUS                                     
+720,LA UNION                                             
+721,SAHINO O SAN JORGE                                   
+722,LA LEGUA                                             
+723,SAN GERARDO                                          
+724,LA MARINA                                            
+725,CEDRAL                                               
+726,CHAMBACU DE MONTERREY                                
+727,SAN RAMON                            
+728,SAN JOSE DE LA TIGRA                                 
+729,SAN PEDRO DE LA TIGRA                                
+730,SAN MIGUEL O LIMBO                                   
+731,EL CONCHO                                            
+732,SAN ROQUE                                            
+733,SANTA ROSA DE POCOSOL                                
+734,BELLA VISTA                                          
+735,LAS BRISAS                                           
+736,SANTA RITA                                           
+737,BOCA TAPADA                                          
+738,COOPEVEGA                                            
+739,PITALITO                                             
+740,LOS ANGELES DE PITAL                                 
+741,ESTERITO                                             
+742,SANTA MARIA                                          
+743,SAN DIEGO                                            
+744,MORAVIA                                              
+745,CARRIZAL                                             
+746,SAN JUAN DE LA CEIBA                                 
+747,EL PLOMO                                             
+748,SAN MARCOS NORTE                                     
+749,MARSELLA                                             
+750,ACAPULCO                                             
+751,SAN FRANCISCO O LA AQUILEA                           
+752,LINDA VISTA                                          
+753,LA GLORIA O SAN MARCOS                               
+754,GUARIA DE POCOSOL                                    
+755,SONAFLUCA                                            
+756,SANTA FE O LA FAMA                                   
+757,SAN JORGE DE CUTRIS                                  
+758,DELICIAS                                             
+759,SAN BOSCO                                            
+760,ALMENDROS                                            
+761,BUENOS AIRES DE VENECIA                              
+762,SAN MARTIN                                           
+763,CERRO CORTES                                         
+764,PALMAR                                               
+765,SAN CRISTOBAL                                        
+766,C.P. NELSON MANDELA                                  
+767,H.A. SAN VICENTE DE PAUL                             
+768,ABUNDANCIA                                           
+769,SAN JOSE DE LA MONTAÑA                               
+770,SAN PABLO                                            
+771,CONCEPCION                                           
+772,EL CORTE                               
+773,CARMEN                                               
+774,TRES Y TRES                                          
+775,SANTA ELENA                                          
+776,CORAZON DE JESUS DE LA TESALIA                       
+777,ZARCERO                                                 
+778,LAGUNA                                                  
+779,TAPESCO                                                 
+780,SANTA ROSA                                              
+781,GUADALUPE                                               
+782,SAN LUIS O MORELOS                                      
+783,PALMIRA                                                 
+784,ZAPOTE                                                  
+785,PUEBLO NUEVO DE LA PICADA                               
+786,SAN JUAN DE LAJAS                                       
+787,LEGUA                                                   
+788,H.A. SAN RAFAEL                                         
+789,ANATERI                                                 
+790,SARCHI NORTE                                      
+791,SARCHI SUR                                        
+792,SAN PEDRO                                         
+793,BAJOS DEL TORO                                    
+794,SAN JUAN                                          
+795,LOS ANGELES                                       
+796,SAN JOSE DE TROJAS                                
+797,LA LUISA                                          
+798,SABANILLA                                         
+799,UPALA                                                     
+800,SAN ISIDRO DE ZAPOTE                                      
+801,COLONIA PUNTARENAS                                        
+802,CANALETE                                                  
+803,SAN ISIDRO DE AGUAS CLARAS                                
+804,COLONIA LIBERTAD                                          
+805,CUATRO BOCAS                                              
+806,SAN JOSE O PIZOTE                                         
+807,BIJAGUA                                                   
+808,SANTO DOMINGO                                             
+809,DELICIAS                                                  
+810,SANTA CLARA                             
+811,DOS RIOS O COLONIA MAYORGA                                
+812,BRASILIA                                                  
+813,PATA DE GALLO                             
+814,GUAYABAL O EL CARMEN                                      
+815,SAN LUIS                                                  
+816,SAN JORGE O RIO NEGRO                                     
+817,SAN RAMON                                                 
+818,AGUAS CLARAS                                              
+819,BUENOS AIRES                                              
+820,BIRMANIA                                                  
+821,LAS BRISAS                                    
+822,SANTA ROSA                       
+823,VILLANUEVA                                                
+824,PORVENIR                                                  
+825,NAZARETH                                                  
+826,MORENO CAÑAS                                              
+827,COLONIA BLANCA                                            
+828,LLANO AZUL                                                
+829,SAN RAFAEL O CHIMURRIA ABAJO                              
+830,CARTAGOS SUR                                              
+831,QUEBRADON                                                 
+832,LAS ARMENIAS                                              
+833,CARTAGOS NORTE                                            
+834,AMERICA                                                   
+835,BETANIA                                                   
+836,PROGRESO                                                  
+837,EL SALTO                                                  
+838,LAS FLORES                                                
+839,RIO NEGRO                                                 
+840,HIGUERON                                 
+841,LOS CHILES                                           
+842,ARCO IRIS                                            
+843,CAÑO NEGRO                                           
+844,SAN JOSE DEL AMPARO                                  
+845,PORVENIR DE SAN JORGE                                
+846,MEDIO QUESO                                          
+847,VERACRUZ                                             
+848,CUATRO ESQUINAS                                      
+849,SANTA ELENA DE ISLA CHICA                            
+850,COQUITAL                                             
+851,MONTEALEGRE                                          
+852,VASCONIA                                             
+853,LOS LIRIOS                                           
+854,SAN JORGE                                            
+855,PAVON                                                
+856,EL PARQUE                                            
+857,COBANO                                               
+858,CRISTO REY                                           
+859,LA URRACA                                            
+860,LA UNION                                             
+861,LAS NUBES                                            
+862,SAN RAFAEL                                              
+863,PATASTILLO                                              
+864,MARGARITA                                               
+865,BUENAVISTA                                              
+866,CABANGA DE COTE                       
+867,PATASTE                                                 
+868,MAQUENCAL O PALMITAL                                    
+869,TONJIBE                                                 
+870,SANTA FE                                                
+871,TIALES                                                  
+872,KATIRA                                                  
+873,RIO CELESTE                                             
+874,MONICO                                                  
+875,EL VALLE                                                
+876,LA GARITA                                               
+877,SILENCIO                                                
+878,COLONIA AGRICOLA DEL TORO                            
+879,RIO CUARTO                                           
+880,SAN RAFAEL DE RIO CUARTO                 
+881,LA TABLA                                             
+882,LOS ANGELES                                          
+883,SANTA RITA                                           
+884,SANTA ISABEL                                         
+885,LA VICTORIA                             
+886,SAN VICENTE                                          
+887,LA ESPAÑOLITA                                        
+888,PATA DE GALLO                  
+889,OCCIDENTAL                                               
+890,ORIENTAL                                                 
+891,EL CARMEN                                                
+892,SAN NICOLAS                                              
+893,SAN FRANCISCO                                            
+894,LOURDES                                                  
+895,GUADALUPE O ARENILLA                                     
+896,QUEBRADILLA                                              
+897,BERMEJO                                                  
+898,COPALCHI                                                 
+899,CORRALILLO                                               
+900,SAN JUAN NORTE                                           
+901,SAN JUAN SUR                                             
+902,SANTA ELENA ARRIBA                                       
+903,LLANO DE LOS ANGELES                                     
+904,SAN ANTONIO                                              
+905,TIERRA BLANCA                                            
+906,DULCE NOMBRE                                             
+907,NAVARRO                                                  
+908,LLANO GRANDE                                             
+909,SAN ISIDRO O EL ALUMBRE                                  
+910,RIO CONEJO                                               
+911,ALTO DE OCHOMOGO                                         
+912,LA LIMA                                                  
+913,QUIRCOT                                                  
+914,AZAHAR                                        
+915,PITAHAYA                                                 
+916,CABALLO BLANCO                           
+917,SAN BLAS                                                 
+918,POLVORA O LOYOLA                                         
+919,MANUEL DE JESUS JIMENEZ                                  
+920,H.A. ASILO DE LA VEJEZ                                   
+921,LOMA LARGA                                               
+922,GUAYABAL                                     
+923,PARAISO                                                  
+924,BIRRISITO                                                
+925,SANTIAGO                                                 
+926,EL YAS                                                   
+927,OROSI                                                    
+928,RIO MACHO                                                
+929,PALOMO                                                   
+930,PURISIL                                                  
+931,CACHI                                                    
+932,URASCA                                                   
+933,LA FLOR                                                  
+934,LA LOAIZA                                                
+935,UJARRAS                                                  
+936,AJENJAL                                                  
+937,ALTO DE ARAYA                                            
+938,SAN JERONIMO O GUATUSO                                   
+939,SAN MIGUEL O HAMACA                        
+940,LAPUENTE                                                 
+941,LLANOS DE SANTA LUCIA                                    
+942,RIO REGADO                                               
+943,ALEGRIA                                                  
+944,TRES RIOS                                               
+945,SAN DIEGO                                               
+946,RIO AZUL                                                
+947,SAN JUAN                                                
+948,SAN RAFAEL                                              
+949,CONCEPCION                                              
+950,DULCE NOMBRE                                            
+951,SAN RAMON                                               
+952,SANTIAGO DEL MONTE                                      
+953,QUEBRADA DEL FIERRO                                     
+954,SALITRILLO                                              
+955,RINCON MESEN ESTE                                       
+956,SAN VICENTE                                             
+957,EL CARMEN                                               
+958,VILLAS DE AYARCO                                        
+959,YERBABUENA                                              
+960,LINDA VISTA                                             
+961,SAN FRANCISCO                                           
+962,LA CIMA                                                 
+963,JUAN VIÑAS                                               
+964,ALTO VICTORIA                                            
+965,SANTA MARTA                                              
+966,EL NARANJO                                               
+967,TUCURRIQUE                                               
+968,PEJIBAYE                                                 
+969,SABANILLA                                                
+970,ORIENTE                                                  
+971,SAN MARTIN                                               
+972,HUMO                                                     
+973,LAS VUELTAS                                              
+974,LOS ALPES                                                
+975,TURRIALBA                                              
+976,EL PORO                                                
+977,AQUIARES O LA ISLA                                     
+978,SAN JUAN NORTE                                         
+979,SAN JUAN SUR                                           
+980,LAS AMERICAS                                           
+981,FLORENCIA                                              
+982,EL MORA                                                
+983,SANTA ROSA                                             
+984,COLORADO                                               
+985,TUIS                                                   
+986,PACAYITAS                                              
+987,LA SUIZA                                               
+988,SAN JOAQUIN                          
+989,ATIRRO                                                 
+990,GRANO DE ORO O XARA                                    
+991,PLATANILLO                                             
+992,PERALTA                                                
+993,LA FLOR DE TRES EQUIS                                  
+994,BONILLA ARRIBA                                         
+995,PAVONES                                                
+996,SITIO DE MATA                                          
+997,CHITARIA                                               
+998,SANTA CRUZ                                             
+999,LA PASTORA                                             
+1000,SAN MARTIN                                             
+1001,SAN ANTONIO                                            
+1002,EL TORITO                                 
+1003,SANTA TERESITA                                 
+1004,COLONIA GUAYABO                                        
+1005,TRES EQUIS                                             
+1006,MOLLEJONES                                             
+1007,ESMERALDA                                              
+1008,RECREO                                                 
+1009,CIMARRONES                                             
+1010,PALOMO                                                 
+1011,ESLABON                                                
+1012,CIEN MANZANAS                                          
+1013,BAJO PACUARE O SUR                                     
+1014,VERBENA NORTE                                          
+1015,SAN RAMON                                              
+1016,JABILLOS                                               
+1017,CALLE VARGAS                                           
+1018,ALTO VARAL                                             
+1019,NOCHEBUENA                                             
+1020,CARMEN                                                 
+1021,SAN VICENTE                                            
+1022,FUENTE                                                 
+1023,EL CARMEN                                              
+1024,SAUCE                                                  
+1025,JICOTEA                                                
+1026,SAN RAFAEL                                             
+1027,SIMIRIÑAC                                      
+1028,ALTO PACUARE ARRIBA                           
+1029,JAKI                   
+1030,BOLORI ÑAC                              
+1031,NIMARI-ÑAC                                 
+1032,NAMALDI                                                
+1033,TSIPIRI                           
+1034,AZUL                                                   
+1035,EL SILENCIO                                            
+1036,GUAYABO ABAJO                                          
+1037,CARMEN LYRA                                            
+1038,H.A. SAN BUENAVENTURA                                  
+1039,MARGOT                                                 
+1040,CANADA                                                 
+1041,LAS VIRTUDES                                           
+1042,LAS NUBES                                              
+1043,QUETZAL                                                
+1044,PACUARE                                                
+1045,JAMO                       
+1046,ALTO PACUARE ABAJO                            
+1047,JACBATA                                 
+1048,PACAYAS                                                 
+1049,IRAZU SUR                                               
+1050,CERVANTES                                               
+1051,CAPELLADES                                              
+1052,BUENA VISTA                                             
+1053,LLANO GRANDE                                            
+1054,SAN RAFAEL DE IRAZU                                     
+1055,SANTA TERESA                                            
+1056,LOURDES                                     
+1057,SAN RAFAEL                                              
+1058,COT                                                     
+1059,PASO ANCHO                                              
+1060,POTRERO CERRADO                                         
+1061,SAN JUAN DE CHICUA                                      
+1062,CIPRESES                                                
+1063,SANTA ROSA                                              
+1064,SAN PABLO                                               
+1065,SAN GERARDO NORTE DEL IRAZU                             
+1066,SAN GERARDO SUR DE PASQUI                               
+1067,ALTO CERRILLOS                      
+1068,BOSQUE                                                  
+1069,EL TEJAR                                               
+1070,SAN ISIDRO                                             
+1071,PALMITAL                                               
+1072,LA ESTRELLA                                            
+1073,TOBOSI                                                 
+1074,BARRIO NUEVO                                           
+1075,TABLON                                                 
+1076,PATIO DE AGUA                                          
+1077,CAÑON                                
+1078,PURIRES                                
+1079,CARAGRAL                                               
+1080,LA CANGREJA                                            
+1081,VARA DE ROBLE                                          
+1082,ASUNCION                                   
+1083,SABANA GRANDE                                          
+1084,C.P. JORGE DEBRAVO                                     
+1085,HEREDIA                                                  
+1086,MERCEDES NORTE                                           
+1087,MERCEDES SUR                                             
+1088,SAN FRANCISCO                                            
+1089,BARREAL                                      
+1090,VARABLANCA                                               
+1091,LOS LAGOS                                                
+1092,BERNARDO BENAVIDES                               
+1093,LA AURORA                                    
+1094,LAGUNILLA                                                
+1095,SAN RAFAEL DE VARABLANCA                                 
+1096,GUARARI                                                  
+1097,BARVA                                                      
+1098,SAN PEDRO                                                  
+1099,SAN JOSE DE LA MONTAÑA                                     
+1100,SAN PABLO                                                  
+1101,SAN ROQUE                                                  
+1102,SANTA LUCIA                                                
+1103,SACRAMENTO                                                 
+1104,PASO LLANO O PORROSATI                                     
+1105,BUENAVISTA                                
+1106,PUENTE DE SALAS                                            
+1107,SAN MIGUEL                                                 
+1108,H.A. REINA DE LOS ANGELES                                  
+1109,SANTO DOMINGO                                      
+1110,SAN VICENTE                                        
+1111,SAN MIGUEL                                         
+1112,LOS ANGELES                                        
+1113,SAN LUIS                                           
+1114,PARACITO                                           
+1115,SANTO TOMAS                                        
+1116,SANTA ROSA                                         
+1117,SOCORRO                                            
+1118,CASTILLA                        
+1119,SANTA BARBARA                                      
+1120,SAN PEDRO                                          
+1121,SAN JUAN ABAJO                                     
+1122,JESUS                                              
+1123,BIRRI                                              
+1124,SANTO DOMINGO DEL ROBLE                            
+1125,SETILLAL                                           
+1126,CHAGUITE                                           
+1127,LOS CARTAGOS                                       
+1128,SAN BOSCO                                          
+1129,SAN RAFAEL                                            
+1130,SAN JOSECITO                                          
+1131,SANTIAGO                                              
+1132,LOS ANGELES                                           
+1133,CONCEPCION                                            
+1134,GETSEMANI                             
+1135,MONTECITO                                             
+1136,LA SUIZA                                              
+1137,SAN MIGUEL O PALMAR                         
+1138,SAN ISIDRO                                            
+1139,SAN FRANCISCO                                         
+1140,SAN JOSECITO                                          
+1141,CONCEPCION                                            
+1142,SANTA ELENA                                           
+1143,SANTA CECILIA                                
+1144,C.P. SAN ISIDRO JUVENIL ZURQUI                        
+1145,H.A. SEÑORA DE LOS ANGELES                            
+1146,SAN ANTONIO                                                
+1147,LA RIBERA                                                  
+1148,LA ASUNCION                                                
+1149,SAN JOAQUIN                                               
+1150,SAN LORENZO                                               
+1151,LLORENTE                                                  
+1152,SAN PABLO                                              
+1153,RINCON DE RICARDO                                      
+1154,MIRAFLORES                                             
+1155,H.A.ALFRED Y DELIA GONZALEZ FLORES                     
+1156,PUERTO VIEJO                                           
+1157,SAN JOSE DE RIO SARAPIQUI                              
+1158,LA VIRGEN                                              
+1159,PANGOLA O SAN JUAN                                     
+1160, LLANO GRANDE                                          
+1161,SAN RAMON                                              
+1162,LOS ANGELES DE COLONIA CARVAJAL                        
+1163,LA CEIBA                                               
+1164,LAS HORQUETAS                                          
+1165,RIO FRIO                                               
+1166,EL TIGRE SUR                                           
+1167,PUEBLO NUEVO                                           
+1168,CHILAMATE ESTE ALTOS                                   
+1169,SAN JULIAN                                             
+1170,LA RAMBLA                                              
+1171,FINCA DIEZ                                             
+1172,LOS ARBOLITOS                            
+1173,FINCA DOS                                              
+1174,COLONIA CUBUJUQUI                                      
+1175,CERRO NEGRO                               
+1176,ZAPOTE                                                 
+1177,COLONIA SAN JOSE                                       
+1178,COLONIA VICTORIA                                       
+1179,EL PALMAR                                              
+1180,LAS MARIAS                                             
+1181,GOLFITO                                                
+1182,COLONIA VILLALOBOS                                     
+1183,SAN BERNARDINO                                         
+1184,ESTERO GRANDE                                          
+1185,LA  CHAVES                                             
+1186,EL ROBLE                                               
+1187,TIRIMBINA                                              
+1188,LA CONQUISTA                                           
+1189,GUARIA                                                 
+1190,FINCA CINCO                             
+1191,HUETARES                                               
+1192,LA ALDEA                                               
+1193,ANGELES DE RIO SARAPIQUI                               
+1194,EL MORTERO                                             
+1195,COLONIA LA GATA                                        
+1196,NARANJAL                                               
+1197,SANTA DELIA                                            
+1198,FINCA AGUA                                             
+1199,RANCHO CHILAMATE                                       
+1200,H.A. SAN AGUSTIN                                       
+1201,LIBERIA                                               
+1202,GUARDIA                                               
+1203,CAÑAS DULCES                                          
+1204,QUEBRADA GRANDE O GARCIA FLAMENCO                     
+1205,CURUBANDE                                             
+1206,BUENAVISTA DE CAÑAS DULCES                            
+1207,IRIGARAY                                              
+1208,LAS LILAS                                             
+1209,CERECEDA                                  
+1210,SALTO OESTE                                           
+1211,C.P. CALLE REAL                 
+1212,H.A. LIBERIA                                          
+1213,BARRIO LA CRUZ                                        
+1214,CORAZON DE JESUS                                      
+1215,LA VICTORIA                                           
+1216,SAN ROQUE                                             
+1217,SANTA MARIA                                           
+1218,EL GALLO                                              
+1219,RODEITO                                               
+1220,MORACIA                                               
+1221,C.P. CALLE REAL                      
+1222,CAPULIN                                               
+1223,C.P. CALLE REAL                        
+1224,NICOYA                                                 
+1225,QUIRIMAN                                               
+1226,SABANA GRANDE                                          
+1227,JUAN DIAZ                                              
+1228,SAN MARTIN                                             
+1229,SAN JOAQUIN                                            
+1230,DULCE NOMBRE                                
+1231,CAIMITAL                                               
+1232,SAN FERNANDO                                           
+1233,MAQUENCO                                               
+1234,LA MANSION                                             
+1235,MATINA                                                 
+1236,CABALLITO                                              
+1237,LA VIGIA                                               
+1238,COPAL                                                  
+1239,SANTA ELENA                            
+1240,QUEBRADA HONDA                                         
+1241,PUEBLO VIEJO                                           
+1242,SANTA ANA                                              
+1243,CERRO NEGRO                                            
+1244,LA ESPERANZA NORTE O DE JUAN DIAZ                      
+1245,NARANJAL                                               
+1246,LA VIRGINIA DE GAMALOTAL                               
+1247,EL JOBO NORTE                                          
+1248,SAN ANTONIO                                            
+1249,CORRALILLO                                             
+1250,PUERTO HUMO                                            
+1251,SAN LAZARO                                             
+1252,SAN VICENTE ABAJO                                      
+1253,ZAPOTE                                                 
+1254,POZO DE AGUA                                           
+1255,BOCAS DE NOSARA                                        
+1256,EL ROBLAR                                              
+1257,EL CAÑAL                                               
+1258,NAMBI                                                  
+1259,CUAJINIQUIL                                            
+1260,FLORIDA                                                
+1261,MORACIA                                                
+1262,RIO MONTAÑA                                            
+1263,TERCIOPELO                                             
+1264,TALOLINGA                                              
+1265,CURIME                                                 
+1266,BELEN DE NOSARITA                                      
+1267,CUESTA GRANDE                                          
+1268,MONTE GALAN                                            
+1269,EL ROSARIO                                             
+1270,GARZA                                                  
+1271,IGUANITA                                               
+1272,SAMARA                                                 
+1273,BARCO QUEBRADO                                         
+1274,BARRAHONDA O NACAOME                                   
+1275,SILENCIO                                               
+1276,PILAS BLANCAS                                          
+1277,CONCEPCION DE PLATANILLO                               
+1278,SANTO DOMINGO                                          
+1279,SAN JUAN                                 
+1280,LOMA BONITA O LAS CASITAS                              
+1281,GAMALOTAL                                              
+1282,JUNTAS                                                 
+1283,LA ESPERANZA SUR                                       
+1284,DELICIAS DE GARZA                                      
+1285,EL FLOR                                      
+1286,MATAMBUGUITO                                           
+1287,CASITAS                                                
+1288,GARCIMUÑOZ                                             
+1289,ACOYAPA                                                
+1290,H.A. SAN BLAS                                          
+1291,MONTAÑITA                                              
+1292,RIO GRANDE                                             
+1293,SANTA CRUZ                                         
+1294,ARADO                                              
+1295,LAGUNILLA                                          
+1296,SAN JUAN                                           
+1297,BERNABELA                                          
+1298,CACAO                                              
+1299,BOLSON                                             
+1300,SANTA BARBARA                                      
+1301,PARAISO O RIO SEQUITO                              
+1302,VEINTISIETE DE ABRIL                               
+1303,RIO SECO                                           
+1304,MARBELLA                                           
+1305,VILLARREAL                                         
+1306,SANTA ROSA                                         
+1307,SAN FRANCISCO                                      
+1308,SAN JOSE DE PINILLA                                
+1309,HATILLO                                            
+1310,TEMPATE                                            
+1311,CARTAGENA                                          
+1312,PORTEGOLPE                                         
+1313,HUACAS                                             
+1314,MATAPALO                                           
+1315,FLORIDA                                            
+1316,DIRIA O RIO GRANDE                                 
+1317,SAN JUANILLO                                       
+1318,VISTAMAR                                
+1319,POTRERO                                            
+1320,OSTIONAL                                           
+1321,SAN JOSE DE LA MONTAÑA                             
+1322,EL SOCORRO                                         
+1323,PALMARES                                           
+1324,LORENA                                             
+1325,RIO TABACO ARRIBA                                  
+1326,JAZMINAL                                           
+1327,BRASILITO                                          
+1328,DELICIAS                                           
+1329,GARITA NUEVA                                       
+1330,LIMON                                              
+1331,EL LLANO                              
+1332,ORTEGA                                             
+1333,TALOLINGUITA                                       
+1334,SAN PEDRO                                          
+1335,GUAITIL                                            
+1336,H.A. NUESTRA SEÑORA DEL ROSARIO                    
+1337,CHIRCO                                             
+1338,BAGACES                                               
+1339,MONTANO                                               
+1340,BEBEDERO                           
+1341,RIO NARANJO                                           
+1342,CUIPILAPA                                             
+1343,LA FORTUNA                                            
+1344,GUAYABO                                               
+1345,SALITRAL                                              
+1346,SAN BERNARDO                                          
+1347,MONTENEGRO                                            
+1348,PUEBLO NUEVO                                          
+1349,PIJIJE                                                
+1350,RIO CHIQUITO                                          
+1351,SAN ISIDRO DE LIMONAL                                 
+1352,BAGATZI                                               
+1353,LLANOS DE CORTES                                      
+1354,AGUA CALIENTE                                         
+1355,FILADELFIA                                           
+1356,PALMIRA                                              
+1357,COMUNIDAD                                            
+1358,SARDINAL                                             
+1359,SAN BLAS                                             
+1360,ARTOLA                                               
+1361,BELEN                                                
+1362,SANTA ANA                                            
+1363,SANTO DOMINGO                                        
+1364,LOS PLANES                                           
+1365,EL COCO                                              
+1366,RIO CAÑAS NUEVO                                      
+1367,LA GUINEA                                            
+1368,CORRALILLO                                           
+1369,PANAMA O CACIQUE                                     
+1370,CASTILLA DE ORO                                      
+1371,COYOLITO                                             
+1372,NUEVO COLON                                          
+1373,SANTA RITA                                           
+1374,LIBERTAD                                    
+1375,PASO TEMPISQUE                      
+1376,ALTOS DEL ROBLE                                      
+1377,CAÑAS                                                   
+1378,HIGUERON ABAJO                                          
+1379,PALMIRA                                                 
+1380,BEBEDERO                                  
+1381,POROZAL                                                 
+1382,NUEVA GUATEMALA                                         
+1383,SAN MIGUEL O CUATRO ESQUINAS                            
+1384,NISPERO                             
+1385,BUENOS AIRES LA GOTERA                     
+1386,HOTEL                                                   
+1387,SANDILLAL                                               
+1388,EL VERGEL                                               
+1389,SAN JUAN                                                
+1390,JABILLA ABAJO                                           
+1391,SAN MARTIN                                              
+1392,LAS PALMAS                                              
+1393,H.A MARY BLANCO                                         
+1394,URB. LAS CAÑAS                                          
+1395,LAS JUNTAS                                          
+1396,SANTA LUCIA                                         
+1397,LA SIERRA                               
+1398,ALTO CEBADILLA                                      
+1399,LA PALMA                                            
+1400,EL DOS DE ABANGARES                  
+1401,SAN JUAN GRANDE                                     
+1402,POZO AZUL                                           
+1403,COLORADO                                            
+1404,SAN BUENAVENTURA                                    
+1405,SAN JOAQUIN                                         
+1406,MONTE POTRERO O PUEBLO NUEVO                        
+1407,CAMPOS DE ORO DE ABANGARES                          
+1408,SAN RAFAEL                            
+1409,LOS ANGELES                               
+1410,HIGUERILLAS                                         
+1411,MATAPALO                                            
+1412,BARRIO JESUS                                        
+1413,RANCHO ANIA O LOURDES                       
+1414,CAÑITAS                                             
+1415,COYOLITO DE ABANGARES O LA PEÑA                     
+1416,TORNOS                                              
+1417,H.A. SAN JORGE                                      
+1418,RAIZAL                                              
+1419,LA CONCHA                              
+1420,PEÑAS BLANCAS                                       
+1421,TILARAN                                               
+1422,QUEBRADA GRANDE                                       
+1423,SAN RAMON                                             
+1424,CABECERAS DE CAÑAS                                    
+1425,TRONADORA                                             
+1426,AGUACATE                                 
+1427,LOS ANGELES                             
+1428,PARCE. QUEBRADA AZUL                   
+1429,LIBANO                                                
+1430,SAN JOSE                                              
+1431,TIERRAS MORENAS                                       
+1432,FLORIDA                                      
+1433,SAN MIGUEL                                            
+1434,ARENAL NUEVO                                          
+1435,SOLANIA                                               
+1436,LAS NUBES DE RIO CHIQUITO                             
+1437,RIO CHIQUITO                                          
+1438,LA UNION                                              
+1439,RIO PIEDRAS                         
+1440,VIEJO ARENAL                                          
+1441,SILENCIO                                              
+1442,SAN LUIS                                              
+1443,H.A. TILARAN                                          
+1444,CARMONA                                             
+1445,SANTA RITA                                          
+1446,SAN ANTONIO DE ZAPOTAL                              
+1447,SAN PABLO                                           
+1448,BELLAVISTA                                          
+1449,BEJUCO                                              
+1450,QUEBRADA SECA O PILAS DE BEJUCO                     
+1451,SAN PEDRO                                           
+1452,EL CARMEN                                           
+1453,CERRO AZUL                                          
+1454,LOS ANGELES                                         
+1455,COROZALITO                                          
+1456,SAN FRANCISCO DE COYOTE                             
+1457,JABILLOS                                            
+1458,TACANIS                                             
+1459,SAN RAMON                                           
+1460,PAVONES                                             
+1461,QUEBRADA NANDO                                      
+1462,QUEBRADA GRANDE                                     
+1463,ZAPOTE O MORAVIA                                    
+1464,COLONIA DEL VALLE                                   
+1465,CACAO                                               
+1466,RIO DE ORO                                          
+1467,JABILLA                                             
+1468,H.A. SAGRADO CORAZON DE JESUS                       
+1469,LA CRUZ                                               
+1470,COPALCHI                                              
+1471,TEMPATAL                                              
+1472,SANTA CECILIA                                         
+1473,LA GARITA                                             
+1474,CUAJINIQUIL DE SANTA ELENA                            
+1475,ARMENIA                                               
+1476,GUAPINOL                                              
+1477,LAS BRISAS                                            
+1478,LA VIRGEN                                             
+1479,EL PORVENIR                         
+1480,JOBO                           
+1481,LOS ANDES                                             
+1482,LAS VUELTAS                                           
+1483,CAOBA                                                 
+1484,BELICE                                                
+1485,PALMARES                                              
+1486,HOJANCHA                                             
+1487,LA MARAVILLA                                         
+1488,PILANGOSTA                                           
+1489,LAJAS                                                
+1490,BETANIA O JOBO                                       
+1491,CUESTA ROJA                                          
+1492,MONTE ROMO                                           
+1493,ARBOLITOS                              
+1494,MATAMBU                                              
+1495,PITA RAYADA                                          
+1496,HUACAS                                               
+1497,ESTRADA                                              
+1498,PUERTO CARRILLO                                      
+1499,LOS ANGELES NORTE                                    
+1500,ALTOS DEL SOCORRO                                    
+1501,PUNTARENAS                                            
+1502,CERRO PLANO                                           
+1503,PITAHAYA                                              
+1504,SARDINAL DE ACAPULCO                                  
+1505,CHOMES                                                
+1506,SARMIENTO                                             
+1507,LAGARTO SUR                                           
+1508,LEPANTO                                               
+1509,MONTAÑA GRANDE                                        
+1510,JICARAL                                               
+1511,PAQUERA                                               
+1512,TAMBOR                                                
+1513,MANZANILLO DEL GOLFO                                  
+1514,NANCITE                                 
+1515,BARRANCA                                              
+1516,SAN MIGUEL DE BARRANCA                                
+1517,COROZAL                                               
+1518,VAINILLA                                              
+1519,JUAN DE LEON                                          
+1520,CUAJINIQUIL                                           
+1521,GUACIMAL                                              
+1522,COBANO                                                
+1523,SANTA ELENA                                           
+1524,DOMINICAS                                             
+1525,MONTEZUMA                                             
+1526,PILAS DE CANJEL                                       
+1527,SAN LUIS DE MONTEVERDE                                
+1528,SAN RAMON DE RIO BLANCO                               
+1529,COSTA DE PAJAROS                 
+1530,SANTA ROSA                                            
+1531,CABO BLANCO DEL GOLFO                                 
+1532,CARMEN LIRA                                           
+1533,POCHOTE                                               
+1534,RIO NEGRO                                             
+1535,BELLO HORIZONTE                                       
+1536,LA ESPERANZA                                          
+1537,RIO FRIO                                              
+1538,ABANGARITOS                                           
+1539,FLORIDA                               
+1540,LA TIGRA                                
+1541,KENNEDY                                   
+1542,RIO GRANDE                                            
+1543,SAN RAFAEL                                            
+1544,GUARIA                                                
+1545,CHACARITA                                             
+1546,SAN MIGUEL DE RIO BLANCO                              
+1547,EL BALSO                                              
+1548,SAN BLAS                                              
+1549,PAVON                                                 
+1550,SAN RAFAEL DE ACAPULCO                                
+1551,OJO DE AGUA                                           
+1552,BAJO CALIENTE                          
+1553,ISLA CABALLO                                          
+1554,MALINCHE                                              
+1555,JUDAS                                                 
+1556,GIGANTE                                               
+1557,PUEBLO NUEVO                                          
+1558,CABUYA                                                
+1559,MAL PAIS                                              
+1560,COYOLITO                                      
+1561,ARANJUEZ                                              
+1562,ORIENTE                         
+1563,CORAZON DE JESUS                 
+1564,CHAPERNAL                                             
+1565,LA FRESCA                                             
+1566,BAJO NEGRO                                            
+1567,MORALES                                               
+1568,EL ROBLE                                              
+1569,FRAY CASIANO DE MADRID                                
+1570,BARRIO EL CARMEN                                      
+1571,EL COCAL                                              
+1572,BOCANA                                                
+1573,SAN PEDRO                                             
+1574,CEBADILLA DE ARANJUEZ                     
+1575,PANICA                                                
+1576,C. P. 26 DE JULIO                    
+1577,PUERTO PALITO                                         
+1578,FLORIDA                    
+1579,CONCEPCION                                            
+1580,JUANITO MORA                                          
+1581,EL PROGRESO                                           
+1582,CHAGUITE                                              
+1583,VALLE AZUL                                            
+1584,H.A. MIGUEL MORENO                                    
+1585,PLAYA BLANCA                                          
+1586,ISLA DEL COCO                                         
+1587,H.A. MARIA INMACULADA                                 
+1588,YIRETH                                                
+1589,SANTA TERESA                                 
+1590,C.P. 26 DE JULIO                       
+1591,ESPARZA                                               
+1592,ARTIEDA                                 
+1593,SAN JUAN GRANDE                                       
+1594,MATA DE LIMON                                         
+1595,JUANILAMA                                             
+1596,SALINAS                                               
+1597,MACACONA                                              
+1598,PEÑA BLANCA                                           
+1599,MESETAS ABAJO                                         
+1600,SAN RAFAEL                                            
+1601,GUADALUPE O MARATON                                   
+1602,EL BARON                                              
+1603,MOJON                                                 
+1604,SAN JERONIMO                                          
+1605,CERRILLOS                                             
+1606,MARAÑONAL                              
+1607,PARAISO O BRUSELAS                                    
+1608,H.A. CARLOS VENEGAS                                   
+1609,TIVIVES                                               
+1610,BUENOS AIRES                                     
+1611,SAN LUIS                               
+1612,SALITRE                                          
+1613,VOLCAN                                           
+1614,POTRERO GRANDE                                   
+1615,BORUCA                                           
+1616,LAS PILAS                                        
+1617,COLINAS                       
+1618,JABILLO                                          
+1619,CURRE                                            
+1620,LA DANTA O CONCEPCION                            
+1621,SAN RAFAEL DE BRUNKA                             
+1622,UJARRAS                                          
+1623,VUELTAS                                          
+1624,SANTA MARTA                                      
+1625,LA LUCHA                                         
+1626,PARAISO                                 
+1627,BAJO LAS BRISAS                                  
+1628,EL PEJE                                          
+1629,CORDONCILLO                                      
+1630,TERRABA                                          
+1631,SAN RAFAEL DE CABAGRA                            
+1632,PASO REAL                                        
+1633,BOLAS DE KRUGRA                                  
+1634,NARANJOS                                         
+1635,BIJAGUAL                                         
+1636,CAJON                                            
+1637,GUAGARAL                                         
+1638,MAIZ DE BORUCA                                   
+1639,CHANGUENA                           
+1640,PILON                                            
+1641,LAS VEGAS DE RIO CHANGUENA                       
+1642,LA BONGA                                         
+1643,SAN VICENTE UPIAV                            
+1644,PARAISO                                          
+1645,SAN LUIS DE RIO LIMON                            
+1646,OLAN                                             
+1647,CACIQUE                                          
+1648,CAPRI                                            
+1649,PUENTE DE SALITRE                                
+1650,SAN ANTONIO                                      
+1651,VILLA HERMOSA                                    
+1652,EL CEIBO                                         
+1653,LA PUNA                                          
+1654,COLORADO                                         
+1655,EL CARMEN                                        
+1656,CONVENTO                                         
+1657,CAÑAS                                            
+1658,SAN CARLOS                                       
+1659,SHAMBA                                           
+1660,CAÑO BRAVO                                       
+1661,SANTA CRUZ                                       
+1662,PALMITAL                                         
+1663,MIRAMAR                                         
+1664,ZAGALA VIEJA                                    
+1665,RIO SECO                                        
+1666,LA UNION                                        
+1667,PALMITAL                                        
+1668,CEDRAL                                          
+1669,CIRUELAS                                        
+1670,SAN ISIDRO                           
+1671,TAJO ALTO                         
+1672,SANTA ROSA                                      
+1673,LAGUNA                                          
+1674,H.A. FRAY CASIANO DE MADRID                     
+1675,LINDA VISTA                                     
+1676,PUERTO CORTES                                             
+1677,PALMAR NORTE                                              
+1678,SIERPE                                                    
+1679,PIEDRAS BLANCAS                                           
+1680,PALMAR SUR                                                
+1681,OLLA CERO O SANTA EDUVIGIS                                
+1682,SAN FRANCISCO DE RIO TINOCO                               
+1683,GUARIA                                                    
+1684,CORONADO                                                  
+1685,OJOCHAL                                                   
+1686,DOMINICALITO                                              
+1687,MOGOS                                                     
+1688,UVITA                                                     
+1689,SAN BUENAVENTURA                                          
+1690,DRAKE                                       
+1691,SABALO                                                    
+1692,LA NAVIDAD                                                
+1693,OJO DE AGUA                                               
+1694,VENECIA                                                   
+1695,RINCON DEL GOLFO                                          
+1696,CHOCUACO ARRIBA                                           
+1697,FINCA SEIS-ONCE                                           
+1698,BALSAR ARRIBA                                             
+1699,FINCA DOS-CUATRO                                          
+1700,RIYITO DE SIERPE                                          
+1701,MIRAMAR                                                   
+1702,JALACA                                      
+1703,SINAI                                                     
+1704,RANCHO QUEMADO O DELICIAS                                 
+1705,CAÑABLANCAL                                               
+1706,EL PROGRESO                                               
+1707,FINCA GUANACASTE                           
+1708,H.A. PALMAR SUR                                           
+1709,LOS PLANES                                                
+1710,ALTO LAGUNA                                               
+1711,QUEPOS                                                 
+1712,CERRITOS                                               
+1713,NARANJITO                                              
+1714,PASITO                                                 
+1715,DAMAS                                                  
+1716,VILLANUEVA                                             
+1717,MATAPALO                                               
+1718,SAN RAFAEL                                   
+1719,RONCADOR                                               
+1720,HATILLO VIEJO                           
+1721,PUNTO DE MIRA                                          
+1722,MARITIMA                                               
+1723,DOS BOCAS                                              
+1724,TIERRAS MORENAS                                        
+1725,PAQUITA                                                
+1726,LONDRES                                                
+1727,SILENCIO                                               
+1728,LA INMACULADA                                          
+1729,SANTO DOMINGO                                          
+1730,MANUEL ANTONIO                                         
+1731,BOCA VIEJA                                             
+1732,COCAL                                                  
+1733,SABALO                                                 
+1734,PORTALON                                               
+1735,H.A. QUEPOS                                            
+1736,GOLFITO                                               
+1737,PUERTO JIMENEZ                                        
+1738,LA PALMA O INDEPENDENCIA                              
+1739,CAÑAZA DE JIMENEZ                                     
+1740,VILLA BRICEÑO                                  
+1741,CONTE DE PAVON                                        
+1742,FLORIDA                                       
+1743,ZANCUDO                                
+1744,BOCA GALLARDO DE SANDALO                              
+1745,RIO CLARO                                             
+1746,LA MONA                                               
+1747,LA FORTUNA DE COTO                                    
+1748,LA VIRGEN                                             
+1749,PUNTA BANCO                                
+1750,LLANO BONITO                                          
+1751,UNION DE COTO NORTE                                   
+1752,VALLE DE LOS CEDROS O SAN MIGUEL                      
+1753,KILOMETRO 16                                          
+1754,BAHIA DE PAVON                       
+1755,LA PEÑA DE BURICA                                     
+1756,CARACOL NORTE                                 
+1757,GUAYMI DE BURICA                                      
+1758,ALTO CONTE                              
+1759,VIQUILLAS                                             
+1760,PROGRESO DE CONTEBURICA                               
+1761,CACAO                                                 
+1762,RESIDENCIAL UREÑA                                     
+1763,ESCUADRA                                              
+1764,LAGARTO                                    
+1765,KILOMETRO 20                                          
+1766,GEMELAS                       
+1767,ESPERANZA                                             
+1768,SAN RAMON                                             
+1769,FINCA 54                                              
+1770,H.A. GOLFITO                                          
+1771,CARBONERA                                             
+1772,SAN VITO                                            
+1773,BAJO REYES                                          
+1774,LA ADMINISTRACION                 
+1775,SABALITO                                            
+1776,SAN MIGUEL DE LA FRONTERA                           
+1777,LAS MELLIZAS                                        
+1778,AGUABUENA                                           
+1779,LIMONCITO DEL OESTE                                 
+1780,LA UNION DE LIMONCITO                               
+1781,SAN RAFAEL DE LIMONCITO                             
+1782,SABANILLA                                           
+1783,CAÑAS GORDAS                                        
+1784,COPAL                                               
+1785,SAN FRANCISCO DE AGUA BUENA                         
+1786,EL VALLE                                            
+1787,SAN GERARDO                                         
+1788,MONTERREY                                           
+1789,FILA MENDEZ                                         
+1790,SANTA ELENA                                         
+1791,FILA GUINEA                                         
+1792,FILA PINAR                                          
+1793,FLOR DEL ROBLE                                      
+1794,LOURDES                                             
+1795,LA LUCHA                                            
+1796,LOS ANGELES DE SABALITO                             
+1797,CONCEPCION                                          
+1798,SANTA CECILIA DE AGUA BUENA                         
+1799,CAMPO TRES                                          
+1800,SANTA RITA                                          
+1801,SANTA CLARA                                         
+1802,BRISAS                                              
+1803,PIEDRA PINTADA                                      
+1804,SAN ANTONIO                                         
+1805,LINDA VISTA                            
+1806,ROBLE                                               
+1807,AGUA CALIENTE                                       
+1808,AGUAS CLARAS                                        
+1809,SANTA TERESA                                        
+1810,CAMAQUIRI                                           
+1811,PALMIRA                                             
+1812,LA CASONA                                  
+1813,MARAVILLA                                           
+1814,BARRIO CANADA                                       
+1815,H.A. COTO BRUS                                      
+1816,SAN RAMON                                           
+1817,LA ISLA                                             
+1818,PUEBLO NUEVO                                          
+1819,ESTERILLOS OESTE                                      
+1820,CHIRES ARRIBA                                         
+1821,SARDINAL SUR                                          
+1822,LOMAS DE PARRITA                                      
+1823,LOS ANGELES                                           
+1824,EL TIGRE                                              
+1825,CHIRRACA                                              
+1826,SAN ISIDRO DE PLAYON                                  
+1827,SURUBRES                                              
+1828,PALO SECO                                             
+1829,VUELTA DE POCARES                                     
+1830,POCARES                                               
+1831,PORVENIR O LAS VEGAS                                  
+1832,SAN RAFAEL NORTE                           
+1833,LAS PARCELAS O DAMITAS                      
+1834,ISLA DAMAS                                            
+1835,PIRRIS                                                
+1836,BAMBU                                                 
+1837,VALLE VASCONIA                                
+1838,BEJUCO                                                
+1839,LA JULIETA                                            
+1840,PLAYON SUR                                            
+1841,BANDERA                                               
+1842,CARMEN                                    
+1843,PLAYA ISLA PALO SECO                                  
+1844,NEILY                                              
+1845,CAMPO DOS Y MEDIO                       
+1846,BAJO LOS INDIOS                                    
+1847,COTO CUARENTA Y DOS                                
+1848,COTO CUARENTA Y SIETE                              
+1849,ABROJO NORTE                        
+1850,CAMPIÑA                                            
+1851,LA CUESTA                                          
+1852,LAUREL                                             
+1853,CANOAS                                             
+1854,BARRIO NUEVO DE VERACRUZ               
+1855,COLORADO                                           
+1856,MARIPOSA                                           
+1857,LOS PLANES                                         
+1858,CARMEN                           
+1859,BELLA LUZ                                          
+1860,COLONIA LIBERTAD                          
+1861,LA NUBIA                           
+1862,CARACOL DE LA VACA                                 
+1863,VEREH                                              
+1864,RIO BONITO DE NEILY                                
+1865,SAN MARTIN                                         
+1866,FORTUNA                                            
+1867,VEGAS DEL RIO LA VACA NIBIRIBOTDA                  
+1868,ABROJO-MONTEZUMA                                   
+1869,NARANJO                                            
+1870,RIO NUEVO                                          
+1871,H.A. NEILY                                         
+1872,DARIZARA                                           
+1873,BARRIO SAN JORGE                                   
+1874,JACO                                                 
+1875,TARCOLES                                             
+1876,QUEBRADA GANADO                                      
+1877,HERRADURA                                            
+1878,PUEBLO NUEVO                            
+1879,LAGUNILLAS                             
+1880,POCHOTAL                                             
+1881,QUEBRADA AMARILLA                                    
+1882,LIMON                                                      
+1883,LIVERPOOL                                                  
+1884,LA BOMBA                                                   
+1885,LA COLONIA                                                 
+1886,PENSHURT                                                   
+1887,CRISTOBAL COLON                                            
+1888,MOIN                                                       
+1889,PUEBLO NUEVO O JAMAICA                                     
+1890,VESTA                                                      
+1891,SAN ANDRES                                                 
+1892,RIO BLANCO                                                 
+1893,WESTFALIA                                                  
+1894,CORALES 2                                                  
+1895,LIMONCITO O BARRIO QUINTO                                  
+1896,SANTA ROSA                                                 
+1897,BANANITO NORTE                                             
+1898,BRISAS DE VERAGUA                                          
+1899,SANTA EDUVIGIS                                             
+1900,BUFALO                                                     
+1901,BOCUARE                                                    
+1902,VALLE DE LAS ROSAS                                         
+1903,BEVERLEY                                                   
+1904,AGUAS ZARCAS                                               
+1905,PROGRESO                                                   
+1906,SAN RAFAEL                                                 
+1907,VILLA DEL MAR                                              
+1908,LA COLINA                                                  
+1909,SAN JUAN                                                   
+1910,PANDORA ESTE                                
+1911,VALLE AURORA                                               
+1912,GUARIA                                                     
+1913,SANTA RITA                                                 
+1914,ALTO CWEN                                                  
+1915,XIQIARI                                                    
+1916,SINOLI                                                     
+1917,C.P. LIMON                                      
+1918,H.A. VICTOR CASCO TORRES                                   
+1919,URBANIZACION PACUARE                                       
+1920,CONCEPCION                                                 
+1921,CANGREJOS                                                  
+1922,ALMIRANTE                                                  
+1923,GAVILAN                                    
+1924,JAKKUE                          
+1925,DONDONIA                                                   
+1926,RIO BANANO                                                 
+1927,LOMA LINDA                                                 
+1928,GUAPILES                                                    
+1929,BARRA DEL COLORADO                                          
+1930,JIMENEZ                                                     
+1931,LAS PALMITAS                                                
+1932,LA CURIA                                      
+1933,CARIARI                                   
+1934,ROXANA                                                      
+1935,LA MARAVILLA                                                
+1936,ANITA GRANDE                                                
+1937,RITA                                                        
+1938,CRUCE DE ROXANA                          
+1939,BANAMOLA                                                    
+1940,SAN PEDRO                                                   
+1941,LAS MERCEDES                                      
+1942,CAMPO CINCO                                     
+1943,SAN RAFAEL                                                  
+1944,FLORES                                               
+1945,TICABAN                                                     
+1946,DIAMANTES                                                   
+1947,SAN ANTONIO                                       
+1948,BOCA TORTUGUERO                                             
+1949,LA TERESA                                                   
+1950,PRIMAVERA                                                   
+1951,LOS ANGELES                                                 
+1952,CAMPO DOS                                                   
+1953,CUATRO ESQUINAS                                             
+1954,EL CEIBO                                                    
+1955,SANTA ROSA                                                  
+1956,LA MARINA                                                   
+1957,BELLA VISTA                                                 
+1958,PATIO SAN CRISTOBAL                                         
+1959,CEDRAL                                                      
+1960,SECTOR 8                                      
+1961,SAN GERARDO                                                 
+1962,C.P. CARLOS LUIS FALLAS                       
+1963,CARLOTA                                                     
+1964,H.A. GUAPILES                                               
+1965,TORO AMARILLO                                               
+1966,SUERRE                                                      
+1967,LA FORTUNA                                                  
+1968,LLANO BONITO                                                
+1969,ASTUA PIRIE                                                 
+1970,PROGRESO                                                    
+1971,SAN FRANCISCO DE CAÑO SECO                                  
+1972,LINDA VISTA                                                 
+1973,BUENOS AIRES                                                
+1974,SAN MARTIN                                                  
+1975,PORVENIR                                                    
+1976,C.P. CARLOS LUIS FALLAS                        
+1977,CASCADAS                                                    
+1978,SAN BOSCO                                                   
+1979,H.A. CARIARI                                                
+1980,C.P. CARLOS LUIS F.                         
+1981,C.P. 20 DE DICIEMBRE                                        
+1982,SIQUIRRES                                                
+1983,SANTO DOMINGO                            
+1984,SAN ALBERTO NUEVO                                        
+1985,PACUARITO                                                
+1986,ALEGRIA                                                  
+1987,FLORIDA                                                  
+1988,MILANO O NEGUEV                                          
+1989,GERMANIA                                                 
+1990,SAN ALEJO SANTA MARTA                                    
+1991,EL CAIRO                                                 
+1992,EL COCO                                                  
+1993,CIMARRONES                                               
+1994,SAN ISIDRO                              
+1995,FINCA IMPERIO 2                                          
+1996,PERLA                                                    
+1997,INDIANA TRES                                             
+1998,MADRE DE DIOS                                            
+1999,SAN ANTONIO                                              
+2000,HEREDIANA                                                
+2001,BOCA DE PARISMINA                                        
+2002,SAN JOSE O BAJOS DE PASCUA                     
+2003,SAN ISIDRO O ALTOS DE PASCUA                             
+2004,SEIS AMIGOS                                              
+2005,SAN CARLOS                                               
+2006,MARYLAND                                                 
+2007,FREEMAN                                                  
+2008,EL PEJE                                                  
+2009,GUAYACAN                                                 
+2010,LUCHA                                                    
+2011,BANACOL                                    
+2012,CULTIVEZ                                                 
+2013,BELLAVISTA                                               
+2014,ALTO LAS BRISAS DE PACUARITO                             
+2015,COCAL                                                    
+2016,SAN MARTIN                                               
+2017,PORTON IBERIA                                            
+2018,BRATSI                               
+2019,AMUBRI                                                   
+2020,COROMA                                      
+2021,SIXAOLA                                                  
+2022,CAHUITA                                                  
+2023,PUERTO VIEJO                                             
+2024,BRIBRI                                           
+2025,SHIROLES                                      
+2026,PARAISO                                                  
+2027,GANDOCA                                                  
+2028,MANZANILLO                                               
+2029,HOME CREEK                                               
+2030,KATSI                                                    
+2031,DAYTONIA                                                 
+2032,SEPEQUE                                                  
+2033,MARGARITA                                                
+2034,DINDIRI O CARBON DOS                                     
+2035,BORDON                                                   
+2036,SIBUJU                                                   
+2037,BAJO TELIRE                                
+2038,H.A. SANTA LUISA                                         
+2039,YORKIN                                                   
+2040,ALTO TELIRE                         
+2041,MATINA                                                      
+2042,ZENT                                                        
+2043,ESTRADA                                                     
+2044,BATAN                                                       
+2045,LUZON                                                       
+2046,VEINTIOCHO MILLAS O WALDEK                                  
+2047,CORINA                                                      
+2048,BRISTOL                                                     
+2049,CUBA CREEK                                     
+2050,SAHARA                                                      
+2051,SANTA MARTA                                                 
+2052,SANTA MARIA                                                 
+2053,SAN MIGUEL                                                  
+2054,LINEA B                                                     
+2055,CUATRO MILLAS                                               
+2056,PALMERA                                       
+2057,ESPERANZA                                                   
+2058,ESPAVEL                                             
+2059,BARBILLA NORTE                                              
+2060,GUACIMO                                                    
+2061,HOGAR                                                      
+2062,BOSQUE                                                     
+2063,PARISMINA                                                  
+2064,IROQUOIS                                                   
+2065,POCORA PARTE NORTE                                         
+2066,RIO JIMENEZ                               
+2067,SANTA ROSA                                                 
+2068,VILLAFRANCA                                                
+2069,OJO DE AGUA O SAN GDO                      
+2070,LOS ANGELES                                                
+2071,SAN LUIS                                                   
+2072,PUEBLO NUEVO O ZANCUDO                                     
+2073,LIMBO                                                      
+2074,POCORA PARTE SUR                                           
+2075,ARGENTINA                                                  
+2076,LAS COLINAS                                                
+2077,H.A DAVID GARRO                                            
+2078,BERLIN                                                
+2079,BUENOS AIRES                                         
+2080,VIENA                                                  
+2081,BRUSELAS                                               
+2082,BELMOPAN                                                
+2083,BRASILIA                                                
+2084,OTTAWA                                                  
+2085,TORONTO                                                 
+2086,SANTIAGO                                                 
+2087,BEIJIN                                                   
+2088,SHANGHAI                                                 
+2089,BOGOTA                                                
+2090,SEUL                                                     
+2091,LA HABANA                                                 
+2092,QUITO                                                  
+2093,ATLANTA                                         
+2094,HOUSTON                                         
+2095,LOS ANGELES                                     
+2096,MIAMI                                           
+2097,NUEVA YORK                                      
+2098,WASHINGTON                                      
+2099,CHICAGO                                         
+2100,SAN SALVADOR                                       
+2101,MADRID                                                  
+2102,PARIS                                                  
+2103,GUATEMALA                                            
+2104,TEGUCIGALPA                                           
+2105,TEL AVIV                                                
+2106,ROMA                                                    
+2107,TOKIO                                                    
+2108,MEXICO                                                  
+2109,CHINANDEGA                                           
+2110,MANAGUA                                              
+2111,LA HAYA                                           
+2112,CIUDAD DE PANAMA                                        
+2113,DAVID                                                   
+2114,LIMA                                                      
+2115,LONDRES                                            
+2116,SANTO DOMINGO                             
+2117,MOSCU                                                    
+2118,SINGAPUR                                              
+2119,BERNA                                                    
+2120,PUERTO ESPAÑA                                
+2121,MONTEVIDEO                                             
+2122,CARACAS                                              
+2123,NUEVA DELHI                                              
+2124,DOHA                                                     
+2125,LA PAZ                                                 
+2126,ASUNCION                                              
+2127,SIDNEY                                               
+2128,KINGSTON JAMAICA                                       
+2129,ANKARA                                                 
+2130,ABU DHABI                               
+2131,YAKARTA                                              
+2132,BAKU                                                
+2133,NAIROBI                                                  
