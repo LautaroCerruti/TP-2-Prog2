@@ -3,6 +3,8 @@
 #include <stdlib.h>
 #include <time.h>
 
+// Trabajo Practico 2 By Lautaro Cerruti and Alesandro Regolo
+
 /*
   En el programa tomaremos a las personas a escribir en el archivo resultante como una estructura 
   en la cual se alamcenaran los datos de la persona tomados del archivo de entrada
@@ -13,7 +15,6 @@ typedef struct {
 }Persona;
 
 /*
-  ComparaInt
   Toma dos ints a y b, y devuelve un numero mayor a 0 si a es mayor a b
   0 si son iguales, y un numero menor a 0 si b es mayor a a
 */
@@ -51,8 +52,8 @@ void GeneradorNnumerosRandoms(int lineasArchivo, int CantidadPersonas, int* resu
 }
 
 /*
-Dado un archivo cuenta la cantidad de lineas que tiene el archivo dado
-ContadorDeLineas: File -> Int
+  Dado un archivo cuenta la cantidad de lineas que tiene el archivo dado
+  ContadorDeLineas: File -> Int
 */
 int ContadorDeLineas(FILE* Entrada){
   char linea[1024];
@@ -118,9 +119,9 @@ void CargaDeLocalidades (FILE* Ciudades, int lineasArchivoLocalidades, char** lo
 }
 
 /*
-recive un archivo de salida, la cantidad de personas a imprimir, un array de la estructura que representa a las personas, las localidades
-un array con los posibles generos y otro array con los posibles generos de interes, luego toma los datos de las personas y los imprime en 
-el archivo de salida
+  Recive un archivo de salida, la cantidad de personas a imprimir, un array de la estructura que representa a las personas, las localidades
+  un array con los posibles generos y otro array con los posibles generos de interes, luego toma los datos de las personas y los imprime en 
+  el archivo de salida
 */
 void ImprimePersonas(FILE* Salida, int CantidadPersonas, Persona *personas, char** localidades, char *genero, char *generointeres){
   int i = 0;
